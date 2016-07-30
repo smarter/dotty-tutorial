@@ -45,5 +45,7 @@ If you'd like to contribute but are not sure what to do:
   - Colors:
     - our REPL has syntax highlighting but it's a bit buggy/limited, try to improve it!
     - our errors/warning messages are still black and white, we should catch up with gcc/clang !
+    - Make the colors used configurable
   - Find some option from `scalac` that we don't support but could be useful, like `-Xfatal-warnings`
+  - Make `sbt compile` free of warnings
   
